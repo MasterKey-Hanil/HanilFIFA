@@ -1,39 +1,29 @@
 .p1411-hl {
-    background-image: url(images/players/1411-hl.png);
+    background-image: url(../images/players/1411-hl.png);
     background-size: cover;
 }
 
 .p1411-hb {
-    background-image: url(images/players/1411-hb.png);
+    background-image: url(../images/players/1411-hb.png);
     background-size: cover;
 }
 
 .p1411-16 {
-    background-image: url(images/players/1411-16.png);
+    background-image: url(../images/players/1411-16.png);
     background-size: cover;
 }
 
 .p1405-16 {
-    background-image: url(images/players/1405-16.png);
-    background-size: cover;
-}
-
-.p1414-16 {
-    background-image: url(images/players/1430-14.png);
+    background-image: url(../images/players/1405-16.png);
     background-size: cover;
 }
 
 .p1422-16 {
-    background-image: url(images/players/1422-16.png);
-    background-size: cover;
-}
-
-.p1423-16 {
-    background-image: url(images/players/1423-16.png);
+    background-image: url(../images/players/1422-16.png);
     background-size: cover;
 }
 
 .p1430-16 {
-    background-image: url(images/players/1430-16.png);
+    background-image: url(../images/players/1430-16.png);
     background-size: cover;
 }

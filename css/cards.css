@@ -1,7 +1,7 @@
 .card-hl {
     width: 300px;
     height: 400px;
-    background-image: url(images/card-elements/background-hl.png);
+    background-image: url(../images/card-elements/background-hl.png);
     background-size: cover;
 }
 
@@ -9,7 +9,7 @@
     width: 300px;
     height: 150px;
     margin-top: -12px;
-    background-image: url(images/card-elements/name-area-hl.png);
+    background-image: url(../images/card-elements/name-area-hl.png);
     background-size: cover;
 }
 
@@ -18,14 +18,14 @@
     height: 32px;
     margin-top: -46px;
     margin-left: 40px;
-    background-image: url(images/card-elements/season-hl.png);
+    background-image: url(../images/card-elements/season-hl.png);
     background-size: cover;
 }
 
 .card-hb {
     width: 300px;
     height: 400px;
-    background-image: url(images/card-elements/background-hb.png);
+    background-image: url(../images/card-elements/background-hb.png);
     background-size: cover;
 }
 
@@ -34,7 +34,7 @@
     height: 32px;
     margin-top: -46px;
     margin-left: 40px;
-    background-image: url(images/card-elements/season-hb.png);
+    background-image: url(../images/card-elements/season-hb.png);
     background-size: cover;
 }
 
@@ -42,14 +42,14 @@
     width: 300px;
     height: 150px;
     margin-top: -12px;
-    background-image: url(images/card-elements/name-area-hb.png);
+    background-image: url(../images/card-elements/name-area-hb.png);
     background-size: cover;
 }
 
 .card-normal {
     width: 300px;
     height: 400px;
-    background-image: url(images/card-elements/background-normal.png);
+    background-image: url(../images/card-elements/background-normal.png);
     background-size: cover;
 }
 
@@ -58,7 +58,7 @@
     height: 32px;
     margin-top: -46px;
     margin-left: 40px;
-    background-image: url(images/card-elements/season-16.png);
+    background-image: url(../images/card-elements/season-16.png);
     background-size: cover;
 }
 
@@ -66,6 +66,6 @@
     width: 300px;
     height: 150px;
     margin-top: -12px;
-    background-image: url(images/card-elements/name-area-normal.png);
+    background-image: url(../images/card-elements/name-area-normal.png);
     background-size: cover;
 }
