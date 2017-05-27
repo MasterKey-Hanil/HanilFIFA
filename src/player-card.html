@@ -1,9 +1,37 @@
 <link rel="import" href="../bower_components/polymer/polymer-element.html">
 
+<link rel="stylesheet" href="../css/style.css" />
+<link rel="stylesheet" href="../css/cards.css" />
+<link rel="stylesheet" href="../css/players.css" />
+<link rel="stylesheet" href="fonts/EASansCurves-Regular/fonts.css" type="text/css" charset="utf-8" />
+
 <dom-module id="player-card">
 
     <template>
-        
+
+        <div>
+            <div class="card-hb">
+                <div class="overall-white">90</div>
+                <div class="position-white">CM</div>
+                <div class="class-white">1-4</div>
+                <div class="room-white">C 302</div>
+            </div>
+            <div class="face-container p1411-hb">
+            </div>
+            <div class="season-hb"></div>
+            <div class="rank-1"></div>
+            <div class="name-area-hb">
+                <div class="name-white">김성호</div>
+            </div>
+        </div>
+
     </template>
+
+    <script>
+        class PlayerCard extends Polymer.Element {
+            static get is() { return "player-card"; }
+        }
+        customElements.define(PlayerCard.is, PlayerCard);
+    </script>
 
 </dom-module>
